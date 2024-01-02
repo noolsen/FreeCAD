@@ -8,5 +8,5 @@
 
 ![](./image/)
 
-- FreeCAD files: [Box_8.FCStd](GitHub/FreeCAD/Aqara_Temp/Box_8.FCStd) og
-[Holder_8.FCStd](GitHub/FreeCAD/Aqara_Temp/Holder_8.FCStd) 
+- FreeCAD files: [Box_8.FCStd](Aqara_Temp/Box_8.FCStd) og
+[Holder_8.FCStd](Aqara_Temp/Holder_8.FCStd) 
